@@ -1,0 +1,5 @@
+name = "Harsha"
+
+Greeting = "Hello"
+
+print(Greeting + " " + name)
